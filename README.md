@@ -20,6 +20,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 
 - [Benchmarking](#benchmarking)
 - [Diagnostics](#diagnostics)
+- [Desktop](#desktop)
 - [Editors](#editors)
   - [Vim](#vim)
 - [Git](#git)
@@ -47,11 +48,20 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 * [glances](https://github.com/nicolargo/glances)
 
 
+## Desktop
+*Tools for improving and hacking around with your vanilla desktop*
+
+* [hydra](https://github.com/sdegutis/hydra) - script your desktop
+  `/OSX/`
+* [Alfred](http://www.alfredapp.com/) - OSX productivity app `/OSX/`
+
+
 
 ## Git
 *Tools and addons for making an awesome Git experience*
 
 * [git-up](https://github.com/aanand/git-up) - a better 'git pull'
+* [hub](https://github.com/github/hub) - Github CLI
 
 
 ## Editors
