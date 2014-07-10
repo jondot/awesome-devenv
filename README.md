@@ -20,21 +20,11 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 
 - [Benchmarking](#benchmarking)
 - [Diagnostics](#diagnostics)
-- [Text](#text)
 - [Editors](#editors)
   - [Vim](#vim)
-
-
-
-## Terminal
-
-* [autojump](https://github.com/joelthelion/autojump) - remembers your
-  folders and jump to them based on partial recall (e.g. `j proj` will jump
-to `/home/Users/yourself/projects`.
-* [iTerm2](http://www.iterm2.com/) - a great terminal replacement `/OSX/`
-* [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - the
-  incredible ZSH addon.
-
+- [Text](#text)
+- [Terminal](#terminal)
+- [Workflow](#workflow)
 
 
 
@@ -75,6 +65,28 @@ to `/home/Users/yourself/projects`.
   better-than-grep tool.
 * [The Silver Searcher](https://github.com/ggreer/the_silver_searcher) -
   an `ack` replacement, much faster, C based.
+
+
+
+## Terminal
+*Tools and addons for terminal and terminal work*
+
+* [autojump](https://github.com/joelthelion/autojump) - remembers your
+  folders and jump to them based on partial recall (e.g. `j proj` will jump
+to `/home/Users/yourself/projects`.
+* [iTerm2](http://www.iterm2.com/) - a great terminal replacement `/OSX/`
+* [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - the
+  incredible ZSH addon.
+
+
+## Workflow
+*Tools and addons which improve your daily workflow with code*
+
+* [fswatch](https://github.com/alandipert/fswatch) - a watch tool which
+  will emit FS events and you can run commands on demand with. Note -
+`fswatch-run` too.
+* [watchman](https://github.com/facebook/watchman) - Facebook's better
+  `watch` - note it works as a service.
 
 
 
