@@ -7,12 +7,14 @@ Inspired by [awesome-go](https://github.com/avelino/awesome-go), which was in tu
 ### Contributing
 
 Guidelines adopted from `awesome-go` - thanks!
+
+
 Many thanks to everyone on the [contributor list](https://github.com/jondot/awesome-devenv/graphs/contributors) :)
 
 
 # Content
 
-_Note: for an OS specific tool, please mark with <OSX/WIN/*NIX/LIN>_
+_Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/LIN`_
 
 
 
