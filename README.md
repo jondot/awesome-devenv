@@ -18,16 +18,25 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 
 
 
+- [Admins](#admins)
 - [Benchmarking](#benchmarking)
+- [Data](#data)
 - [Diagnostics](#diagnostics)
 - [Desktop](#desktop)
 - [Editors](#editors)
   - [Vim](#vim)
 - [Git](#git)
+- [Presentation](#presentation)
 - [Text](#text)
 - [Terminal](#terminal)
 - [Workflow](#workflow)
 
+
+
+## Admins
+*Tools to manage databases, permissions, etc.*
+
+* [Robomongo](http://robomongo.org/) - a cross platform Admin for MongoDB
 
 
 
@@ -36,8 +45,21 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 
 * [apachebench (ab)](http://httpd.apache.org/docs/2.2/programs/ab.html)
 * [httperf](http://www.hpl.hp.com/research/linux/httperf/)
+* [phantomas](https://github.com/macbre/phantomas) - website perf evaluation tool
 * [siege](http://www.joedog.org/siege-home/)
+* [Vegeta](https://github.com/tsenart/vegeta)
 * [wrk](https://github.com/wg/wrk)
+
+
+
+
+
+## Data
+*Tools for handling online and offline data*
+
+* [s3cmd](https://github.com/s3tools/s3cmd) - the S3 CLI tool for Amazon
+
+
 
 
 
@@ -59,13 +81,6 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 
 
 
-## Git
-*Tools and addons for making an awesome Git experience*
-
-* [git-up](https://github.com/aanand/git-up) - a better 'git pull'
-* [git-sweep](https://github.com/arc90/git-sweep) - safely removes branches that have been merged into the master
-* [hub](https://hub.github.com/) - git CLI wrapper which makes working with GitHub easier
-
 ## Editors
 *Only awesome tools and addons for your favorite editor*
 
@@ -76,14 +91,40 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 
 
 
+
+## Git
+*Tools and addons for making an awesome Git experience*
+
+* [git-up](https://github.com/aanand/git-up) - a better 'git pull'
+* [git-sweep](https://github.com/arc90/git-sweep) - safely removes branches that have been merged into the master
+* [hub](https://hub.github.com/) - git CLI wrapper which makes working with GitHub easier
+
+
+
+
+
+## Presentation
+*Tools for presenting your work*
+
+* [remark](https://github.com/gnab/remark) - markdown based presentation on your browser
+
+
+
+
+
+
 ## Text
 *Tools for working with text files - search, replace, processing*
 
 
 * [ack](https://github.com/petdance/ack2) - the Perl based
   better-than-grep tool.
+* [peco](https://github.com/peco/peco) - interactive filtering, like interactive Grep
 * [The Silver Searcher](https://github.com/ggreer/the_silver_searcher) -
   an `ack` replacement, much faster, C based.
+
+
+
 
 
 
