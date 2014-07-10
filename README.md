@@ -22,6 +22,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 - [Diagnostics](#diagnostics)
 - [Editors](#editors)
   - [Vim](#vim)
+- [Git](#git)
 - [Text](#text)
 - [Terminal](#terminal)
 - [Workflow](#workflow)
