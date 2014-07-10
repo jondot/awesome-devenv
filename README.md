@@ -8,6 +8,11 @@ Inspired by [awesome-go](https://github.com/avelino/awesome-go), which was in tu
 
 [Guidelines](https://github.com/jondot/awesome-devenv/blob/master/CONTRIBUTING.md) tweaked and adapted from `awesome-go` - thanks!
 
+But in short:
+
+* List is alphabetically sorted
+* If you think an item shouldn't be here [open an issue](https://github.com/jondot/awesome-devenv/issues/new)
+
 
 Many thanks to everyone on the [contributor list](https://github.com/jondot/awesome-devenv/graphs/contributors) :)
 
