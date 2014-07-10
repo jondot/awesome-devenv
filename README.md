@@ -6,7 +6,7 @@ Inspired by [awesome-go](https://github.com/avelino/awesome-go), which was in tu
 
 ### Contributing
 
-Guidelines adopted from `awesome-go` - thanks!
+[Guidelines](https://github.com/jondot/awesome-devenv/blob/master/CONTRIBUTING.md) tweaked and adapted from `awesome-go` - thanks!
 
 
 Many thanks to everyone on the [contributor list](https://github.com/jondot/awesome-devenv/graphs/contributors) :)
