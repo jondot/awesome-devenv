@@ -51,9 +51,11 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 ## Desktop
 *Tools for improving and hacking around with your vanilla desktop*
 
+* [Alfred](http://www.alfredapp.com/) - OSX productivity app `/OSX/`
 * [hydra](https://github.com/sdegutis/hydra) - script your desktop
   `/OSX/`
-* [Alfred](http://www.alfredapp.com/) - OSX productivity app `/OSX/`
+* [Keycastr](https://github.com/sdeken/keycastr) - show your keys while
+  presenting/casting
 
 
 
