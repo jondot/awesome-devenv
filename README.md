@@ -125,6 +125,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 
 * [ack](https://github.com/petdance/ack2) - the Perl based
   better-than-grep tool.
+* [ag](https://github.com/ggreer/the_silver_searcher) - A C based code-searching tool similar to ack, but faster
 * [peco](https://github.com/peco/peco) - interactive filtering, like interactive Grep
 * [The Silver Searcher](https://github.com/ggreer/the_silver_searcher) -
   an `ack` replacement, much faster, C based.
