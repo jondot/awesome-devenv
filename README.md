@@ -77,7 +77,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 * [hydra](https://github.com/sdegutis/hydra) - script your desktop
   `/OSX/`
 * [Keycastr](https://github.com/sdeken/keycastr) - show your keys while
-  presenting/casting
+  presenting/casting `/OSX/`
 
 
 
@@ -86,8 +86,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 
 ### Vim
 
-* [Powerline](https://github.com/Lokaltog/powerline) - improved status
-  bar for your buffers.
+* [Powerline](https://github.com/Lokaltog/powerline) - improved status bar for your buffers.
 
 
 
@@ -107,6 +106,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 *Tools for presenting your work*
 
 * [remark](https://github.com/gnab/remark) - markdown based presentation on your browser
+* [vimdeck](https://github.com/tybenz/vimdeck) - present inside your Vim
 
 
 
