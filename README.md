@@ -47,6 +47,12 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 
 
 
+## Git
+*Tools and addons for making an awesome Git experience*
+
+* [git-up](https://github.com/aanand/git-up) - a better 'git pull'
+
+
 ## Editors
 *Only awesome tools and addons for your favorite editor*
 
