@@ -52,7 +52,8 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 *Tools and addons for making an awesome Git experience*
 
 * [git-up](https://github.com/aanand/git-up) - a better 'git pull'
-
+* [git-sweep](https://github.com/arc90/git-sweep) - safely removes branches that have been merged into the master
+* [hub](https://hub.github.com/) - git CLI wrapper which makes working with GitHub easier
 
 ## Editors
 *Only awesome tools and addons for your favorite editor*
