@@ -50,6 +50,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 *Tools to benchmark your code or services*
 
 * [apachebench (ab)](http://httpd.apache.org/docs/2.2/programs/ab.html)
+* [boom](https://github.com/rakyll/boom)
 * [httperf](http://www.hpl.hp.com/research/linux/httperf/)
 * [phantomas](https://github.com/macbre/phantomas) - website perf evaluation tool
 * [siege](http://www.joedog.org/siege-home/)
