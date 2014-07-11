@@ -96,6 +96,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 
 * [Powerline](https://github.com/Lokaltog/powerline) - improved status bar for your buffers.
 * [snipmate](https://github.com/garbas/vim-snipmate) - textual snippets compatiable with Textmate snippets.
+* [The Ultimate Vim Distribution](http://vim.spf13.com/) - spf13-vim is a distribution of vim plugins and resources for Vim, GVim and MacVim. 
 
 ### Sublime Text 3
 
