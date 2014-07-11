@@ -73,6 +73,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 *Tools for checking diagnosing your system while you work*
 
 * [glances](https://github.com/nicolargo/glances)
+* [nmon](http://nmon.sourceforge.net/pmwiki.php) 
 
 
 ## Desktop
@@ -104,6 +105,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 * [git-sweep](https://github.com/arc90/git-sweep) - safely removes branches that have been merged into the master
 * [hub](https://hub.github.com/) - git CLI wrapper which makes working with GitHub easier
 * [gh](https://github.com/jingweno/gh) - Fast GitHub command line client (hub port to Go)
+* [scm_breeze](https://github.com/ndbroadbent/scm_breeze) Streamline your git workflow
 
 
 
