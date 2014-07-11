@@ -166,6 +166,9 @@ to `/home/Users/yourself/projects`.
 * [fswatch](https://github.com/alandipert/fswatch) - a watch tool which
   will emit FS events and you can run commands on demand with. Note -
 `fswatch-run` too.
+* [guard](https://github.com/guard/guard) - FS watch tool with a huge ecosystem of plugins
+* [LiveReload](http://livereload.com/) - FS watch and preprocessor as a desktop app for `/OSX/` and `/WIN/` with complementary browser extensions
+  * [guard-livereload](https://github.com/guard/guard-livereload) - Guard plugin compatible with LiveReload's browser extensions
 * [watchman](https://github.com/facebook/watchman) - Facebook's better
   `watch` - note it works as a service.
 
