@@ -92,6 +92,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 ### Vim
 
 * [Powerline](https://github.com/Lokaltog/powerline) - improved status bar for your buffers.
+* [snipmate](https://github.com/garbas/vim-snipmate) - textual snippets compatiable with Textmate snippets.
 
 
 
@@ -143,6 +144,7 @@ to `/home/Users/yourself/projects`.
 * [iTerm2](http://www.iterm2.com/) - a great terminal replacement `/OSX/`
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - the
   incredible ZSH addon.
+* [tmux](http://tmux.sourceforge.net/) the awesome terminal multiplexer.
 
 
 ## Workflow
