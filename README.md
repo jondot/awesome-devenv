@@ -28,6 +28,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 - [Data](#data)
 - [Diagnostics](#diagnostics)
 - [Desktop](#desktop)
+- [Dotfiles](#dotfiles)
 - [Editors](#editors)
   - [Sublime Text](#sublime)
   - [Vim](#vim)
@@ -87,6 +88,12 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 * [Keycastr](https://github.com/sdeken/keycastr) - show your keys while
   presenting/casting `/OSX/`
 
+
+## Dotfiles
+
+*[Zach Holman's](https://github.com/holman/dotfiles) - oh-my-zsh, osx, Zsh, vi, Ruby, Git, and more
+*[Mathias Bynens's](https://github.com/mathiasbynens/dotfiles) - .files, including ~/.osx — sensible hacker defaults for OS X
+*[Thoughtbot's](https://github.com/thoughtbot/dotfiles) - A set of vim, zsh, git, and tmux configuration files
 
 
 ## Editors
