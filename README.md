@@ -137,6 +137,8 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 *Tools for presenting your work*
 
 * [remark](https://github.com/gnab/remark) - markdown based presentation on your browser
+* [reveal.js](https://github.com/hakimel/reveal.js/) - markdown based presentation on your browser
+* [deck.js](https://github.com/imakewebthings/deck.js) - markdown based presentation on your browser
 * [vimdeck](https://github.com/tybenz/vimdeck) - present inside your Vim
 
 
