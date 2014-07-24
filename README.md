@@ -98,6 +98,8 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 ## Editors
 *Only awesome tools and addons for your favorite editor*
 
+
+
 ### Vim
 
 * [Powerline](https://github.com/Lokaltog/powerline) - improved status bar for your buffers.
@@ -116,6 +118,11 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 * [Sublime Git](https://github.com/kemayo/sublime-text-git) - Git Integration for Sublime.
 * [Sublime Linter](https://github.com/SublimeLinter/SublimeLinter3/) - Interactive code linting.
 * [TrailingSpaces](https://github.com/SublimeText/TrailingSpaces) - Highlight trailing spaces and delete them in a flash.
+
+### Intellij
+
+* [keymap](https://github.com/jondot/keymaps/) - a hybrid Vim/ReSharper/Intellij keymap
+
 
 
 
