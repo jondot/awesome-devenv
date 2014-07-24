@@ -43,8 +43,8 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 ## Admins
 *Tools to manage databases, permissions, etc.*
 
+* [MongoHub](https://github.com/fotonauts/MongoHub-Mac/releases) - Native OSx client for mongo
 * [Robomongo](http://robomongo.org/) - a cross platform Admin for MongoDB
-
 
 
 ## Benchmarking
@@ -57,8 +57,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 * [siege](http://www.joedog.org/siege-home/)
 * [Vegeta](https://github.com/tsenart/vegeta)
 * [wrk](https://github.com/wg/wrk)
-
-
+* [redis-faina](https://github.com/Instagram/redis-faina) Instagram's Redis counter/timing stats based on the MONITOR command
 
 
 
