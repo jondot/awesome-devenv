@@ -173,6 +173,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
   folders and jump to them based on partial recall (e.g. `j proj` will jump
 to `/home/Users/yourself/projects`.
 * [fasd](https://github.com/clvv/fasd) Command-line productivity booster, offers quick access to files and directories.
+* [homebrew](http://brew.sh) - Makes it easy to install open source packages on an `OS X` system with a single command.
 * [httpie](http://httpie.org/) A command line HTTP client, a user-friendly cURL replacement.
 * [iTerm2](http://www.iterm2.com/) - a great terminal replacement `/OSX/`
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - the
