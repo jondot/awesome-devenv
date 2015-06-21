@@ -32,7 +32,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 - [Editors](#editors)
   - [Sublime Text](#sublime)
   - [Vim](#vim)
-  - [IntelliJ](#Intellij)
+  - [IntelliJ](#intellij)
 - [Git](#git)
 - [Presentation](#presentation)
 - [Shell](#shell)
