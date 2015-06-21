@@ -32,8 +32,10 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 - [Editors](#editors)
   - [Sublime Text](#sublime)
   - [Vim](#vim)
+  - [IntelliJ](#Intellij)
 - [Git](#git)
 - [Presentation](#presentation)
+- [Shell](#shell)
 - [Text](#text)
 - [Terminal](#terminal)
 - [Workflow](#workflow)
@@ -150,6 +152,11 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 
 
 
+## Shell
+*Tools for having an awesome shell enviormet*
+
+* [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/) - A commiunity driven framwork for managing zsh configuration.
+* [zsh](http://www.zsh.org/) - A shell designed for interactive use, although it is also a powerful scripting language.
 
 
 ## Text
