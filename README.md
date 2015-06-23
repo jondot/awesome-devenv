@@ -147,6 +147,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 ## Shell
 *Tools for having an awesome shell enviormet*
 
+* [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - List of zsh plugins usable with [zgen](https://github.com/tarjoilija/zgen) and other [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/) compatible zsh frameworks
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/) - A commiunity driven framwork for managing zsh configuration.
 * [zgen](https://github.com/tarjoilija/zgen) - Faster framework for managing your zsh configuration, backward compatible with oh-my-zsh plugins
 * [zsh](http://www.zsh.org/) - A shell designed for interactive use, although it is also a powerful scripting language.
