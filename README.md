@@ -32,8 +32,10 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 - [Editors](#editors)
   - [Sublime Text](#sublime)
   - [Vim](#vim)
+  - [IntelliJ](#intellij)
 - [Git](#git)
 - [Presentation](#presentation)
+- [Shell](#shell)
 - [Text](#text)
 - [Terminal](#terminal)
 - [Workflow](#workflow)
@@ -140,9 +142,16 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 * [vimdeck](https://github.com/tybenz/vimdeck) - present inside your Vim
 
 
+## Shell
+*Tools for having an awesome shell enviormet*
+
+* [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/) - A commiunity driven framwork for managing zsh configuration.
+* [zgen](https://github.com/tarjoilija/zgen) - Faster framework for managing your zsh configuration, backward compatible with oh-my-zsh plugins
+* [zsh](http://www.zsh.org/) - A shell designed for interactive use, although it is also a powerful scripting language.
+
+
 ## Text
 *Tools for working with text files - search, replace, processing*
-
 
 * [ack](https://github.com/petdance/ack2) - the Perl based
   better-than-grep tool.
