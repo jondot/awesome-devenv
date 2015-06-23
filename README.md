@@ -41,7 +41,6 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 - [Workflow](#workflow)
 
 
-
 ## Admins
 *Tools to manage databases, permissions, etc.*
 
@@ -62,22 +61,17 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 * [redis-faina](https://github.com/Instagram/redis-faina) Instagram's Redis counter/timing stats based on the MONITOR command
 
 
-
 ## Data
 *Tools for handling online and offline data*
 
 * [s3cmd](https://github.com/s3tools/s3cmd) - the S3 CLI tool for Amazon
 
 
-
-
-
-
 ## Diagnostics
 *Tools for checking diagnosing your system while you work*
 
 * [glances](https://github.com/nicolargo/glances)
-* [nmon](http://nmon.sourceforge.net/pmwiki.php) 
+* [nmon](http://nmon.sourceforge.net/pmwiki.php)
 
 
 ## Desktop
@@ -100,13 +94,12 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 ## Editors
 *Only awesome tools and addons for your favorite editor*
 
-
-
 ### Vim
 
 * [Powerline](https://github.com/Lokaltog/powerline) - improved status bar for your buffers.
 * [snipmate](https://github.com/garbas/vim-snipmate) - textual snippets compatiable with Textmate snippets.
-* [The Ultimate Vim Distribution](http://vim.spf13.com/) - spf13-vim is a distribution of vim plugins and resources for Vim, GVim and MacVim. 
+* [The Ultimate Vim Distribution](http://vim.spf13.com/) - spf13-vim is a distribution of vim plugins and resources for Vim, GVim and MacVim.
+
 
 ### Sublime Text 3
 
@@ -126,19 +119,18 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 * [keymap](https://github.com/jondot/keymaps/) - a hybrid Vim/ReSharper/Intellij keymap
 
 
-
-
 ## Git
 *Tools and addons for making an awesome Git experience*
 
-* [git-up](https://github.com/aanand/git-up) - a better 'git pull'
-* [git-sweep](https://github.com/arc90/git-sweep) - safely removes branches that have been merged into the master
-* [hub](https://hub.github.com/) - git CLI wrapper which makes working with GitHub easier
+* [awesome-github](https://github.com/fffaraz/awesome-github) - Faraz Fallahi maintains a curated list of Github & Git resources.
 * [gh](https://github.com/jingweno/gh) - Fast GitHub command line client (hub port to Go)
+* [git-extra-commands](https://github.com/unixorn/git-extra-commands) - collected git helper scripts
+* [git-extras](https://github.com/visionmedia/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
+* [git-it-on](https://github.com/peterhurford/git-it-on.zsh) - ZSH plugin, adds a gitit command that opens the current directory on github in your current branch
+* [git-sweep](https://github.com/arc90/git-sweep) - safely removes branches that have been merged into the master
+* [git-up](https://github.com/aanand/git-up) - a better 'git pull'
+* [hub](https://hub.github.com/) - git CLI wrapper which makes working with GitHub easier
 * [scm_breeze](https://github.com/ndbroadbent/scm_breeze) Streamline your git workflow
-
-
-
 
 
 ## Presentation
@@ -150,27 +142,21 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 * [vimdeck](https://github.com/tybenz/vimdeck) - present inside your Vim
 
 
-
-
 ## Shell
 *Tools for having an awesome shell enviormet*
 
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/) - A commiunity driven framwork for managing zsh configuration.
+* [zgen](https://github.com/tarjoilija/zgen) - Faster framework for managing your zsh configuration, backward compatible with oh-my-zsh plugins
 * [zsh](http://www.zsh.org/) - A shell designed for interactive use, although it is also a powerful scripting language.
 
 
 ## Text
 *Tools for working with text files - search, replace, processing*
 
-
 * [ack](https://github.com/petdance/ack2) - the Perl based
   better-than-grep tool.
 * [ag](https://github.com/ggreer/the_silver_searcher) - A C based code-searching tool similar to ack, but faster
 * [peco](https://github.com/peco/peco) - interactive filtering, like interactive Grep
-
-
-
-
 
 
 ## Terminal
