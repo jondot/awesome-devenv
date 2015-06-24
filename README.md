@@ -100,12 +100,11 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 * [snipmate](https://github.com/garbas/vim-snipmate) - textual snippets compatiable with Textmate snippets.
 * [The Ultimate Vim Distribution](http://vim.spf13.com/) - spf13-vim is a distribution of vim plugins and resources for Vim, GVim and MacVim.
 
-
 ### Sublime Text 3
 
 * [AdvancedNewFile](https://github.com/skuroda/Sublime-AdvancedNewFile) - File creation plugin.
 * [Emmet](https://github.com/sergeche/emmet-sublime)
-* [GitGutter](https://github.com/jisaacks/GitGutter)
+* [Git Gutter](https://github.com/jisaacks/GitGutter) - display changed/added lines in the margin of the editor window.
 * [jsFormat](https://github.com/jdc0589/JsFormat) - Javascript formatting.
 * [LiveReload](https://github.com/dz0ny/LiveReload-sublimetext2) - LiveReload plugin.
 * [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing) - Markdown syntax understanding and good color schemes.
