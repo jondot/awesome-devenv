@@ -138,6 +138,8 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 ## Presentation
 *Tools for presenting your work*
 
+* [bespoke.js](https://github.com/markdalgleish/bespoke.js) - DIY Presentation Micro-Framework
+* [impress.js](https://github.com/impress/impress.js) - presentation framework based on the power of CSS3 transforms and transitions
 * [remark](https://github.com/gnab/remark) - markdown based presentation on your browser
 * [reveal.js](https://github.com/hakimel/reveal.js/) - markdown based presentation on your browser
 * [deck.js](https://github.com/imakewebthings/deck.js) - markdown based presentation on your browser
