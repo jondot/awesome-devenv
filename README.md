@@ -124,7 +124,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 ## Git
 *Tools and addons for making an awesome Git experience*
 
-* [awesome-github](https://github.com/fffaraz/awesome-github) - Faraz Fallahi maintains a curated list of Github & Git resources.
+* [awesome-github](https://github.com/fffaraz/awesome-github) - Faraz Fallahi maintains a curated list of GitHub & Git resources.
 * [gh](https://github.com/jingweno/gh) - Fast GitHub command line client (hub port to Go)
 * [git-extra-commands](https://github.com/unixorn/git-extra-commands) - collected git helper scripts
 * [git-extras](https://github.com/visionmedia/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
