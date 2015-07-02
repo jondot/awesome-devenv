@@ -90,6 +90,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 * [Zach Holman's](https://github.com/holman/dotfiles) - oh-my-zsh, osx, Zsh, vi, Ruby, Git, and more
 * [Mathias Bynens's](https://github.com/mathiasbynens/dotfiles) - .files, including ~/.osx — sensible hacker defaults for OS X
 * [Thoughtbot's](https://github.com/thoughtbot/dotfiles) - A set of vim, zsh, git, and tmux configuration files
+* [Paul Miller's](https://github.com/paulmillr/dotfiles) - Colourful & robust OS X configuration files and utilities
 
 
 ## Editors
@@ -138,6 +139,8 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 ## Presentation
 *Tools for presenting your work*
 
+* [bespoke.js](https://github.com/markdalgleish/bespoke.js) - DIY Presentation Micro-Framework
+* [impress.js](https://github.com/impress/impress.js) - presentation framework based on the power of CSS3 transforms and transitions
 * [remark](https://github.com/gnab/remark) - markdown based presentation on your browser
 * [reveal.js](https://github.com/hakimel/reveal.js/) - markdown based presentation on your browser
 * [deck.js](https://github.com/imakewebthings/deck.js) - markdown based presentation on your browser
