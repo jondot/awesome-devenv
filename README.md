@@ -179,6 +179,7 @@ to `/home/Users/yourself/projects`.
 * [homebrew](http://brew.sh) - Makes it easy to install open source packages on an `OS X` system with a single command.
 * [httpie](http://httpie.org/) A command line HTTP client, a user-friendly cURL replacement.
 * [iTerm2](http://www.iterm2.com/) - a great terminal replacement `/OSX/`
+* [jq](https://stedolan.github.io/jq/) - a lightweight and flexible command-line JSON processor
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - the
   incredible ZSH addon.
 * [tmux](http://tmux.sourceforge.net/) the awesome terminal multiplexer.
