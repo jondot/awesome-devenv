@@ -153,7 +153,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 
 * [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - List of zsh plugins usable with [zgen](https://github.com/tarjoilija/zgen) and other [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/) compatible zsh frameworks
 * [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell
-* [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - Framework for managing your fish shell configuration inspired by oh-my-zsh. 
+* [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - Framework for managing your fish shell configuration inspired by oh-my-zsh.
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/) - A community driven framework for managing zsh configuration.
 * [zgen](https://github.com/tarjoilija/zgen) - Faster framework for managing your zsh configuration, backward compatible with oh-my-zsh plugins
 * [zsh](http://www.zsh.org/) - A shell designed for interactive use, although it is also a powerful scripting language.
@@ -182,6 +182,7 @@ to `/home/Users/yourself/projects`.
 * [jq](https://stedolan.github.io/jq/) - a lightweight and flexible command-line JSON processor
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - the
   incredible ZSH addon.
+* [Pipe Viewer](http://www.ivarch.com/programs/pv.shtml) - a tool for monitoring the progress of data through a pipeline
 * [tmux](http://tmux.sourceforge.net/) the awesome terminal multiplexer.
 
 
@@ -196,7 +197,3 @@ to `/home/Users/yourself/projects`.
   * [guard-livereload](https://github.com/guard/guard-livereload) - Guard plugin compatible with LiveReload's browser extensions
 * [watchman](https://github.com/facebook/watchman) - Facebook's better
   `watch` - note it works as a service.
-
-
-
-
