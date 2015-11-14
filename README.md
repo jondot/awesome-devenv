@@ -44,7 +44,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 ## Admins
 *Tools to manage databases, permissions, etc.*
 
-* [MongoHub](https://github.com/fotonauts/MongoHub-Mac/releases) - Native OSx client for mongo
+* [MongoHub](https://github.com/jeromelebel/MongoHub-Mac/releases) - Native OSx client for mongo
 * [Robomongo](http://robomongo.org/) - a cross platform Admin for MongoDB
 
 
@@ -55,10 +55,10 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 * [boom](https://github.com/rakyll/boom)
 * [httperf](http://www.hpl.hp.com/research/linux/httperf/)
 * [phantomas](https://github.com/macbre/phantomas) - website perf evaluation tool
-* [siege](http://www.joedog.org/siege-home/)
+* [siege](https://www.joedog.org/siege-home/)
 * [Vegeta](https://github.com/tsenart/vegeta)
 * [wrk](https://github.com/wg/wrk)
-* [redis-faina](https://github.com/Instagram/redis-faina) Instagram's Redis counter/timing stats based on the MONITOR command
+* [redis-faina](https://github.com/facebookarchive/redis-faina) Instagram's Redis counter/timing stats based on the MONITOR command
 
 
 ## Data
@@ -77,10 +77,10 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 ## Desktop
 *Tools for improving and hacking around with your vanilla desktop*
 
-* [Alfred](http://www.alfredapp.com/) - OSX productivity app `/OSX/`
-* [hydra](https://github.com/sdegutis/hydra) - script your desktop
+* [Alfred](https://www.alfredapp.com/) - OSX productivity app `/OSX/`
+* [hydra](https://github.com/sdegutis/mjolnir) - script your desktop
   `/OSX/`
-* [Keycastr](https://github.com/sdeken/keycastr) - show your keys while
+* [Keycastr](https://github.com/keycastr/keycastr) - show your keys while
   presenting/casting `/OSX/`
 
 
@@ -98,7 +98,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 
 ### Vim
 
-* [Powerline](https://github.com/Lokaltog/powerline) - improved status bar for your buffers.
+* [Powerline](https://github.com/powerline/powerline) - improved status bar for your buffers.
 * [snipmate](https://github.com/garbas/vim-snipmate) - textual snippets compatiable with Textmate snippets.
 * [The Ultimate Vim Distribution](http://vim.spf13.com/) - spf13-vim is a distribution of vim plugins and resources for Vim, GVim and MacVim.
 
@@ -110,7 +110,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 * [jsFormat](https://github.com/jdc0589/JsFormat) - Javascript formatting.
 * [LiveReload](https://github.com/dz0ny/LiveReload-sublimetext2) - LiveReload plugin.
 * [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing) - Markdown syntax understanding and good color schemes.
-* [Package Control](https://sublime.wbond.net/installation) - The Sublime Text package manager.
+* [Package Control](https://packagecontrol.io/installation) - The Sublime Text package manager.
 * [RubyTest](https://github.com/maltize/sublime-text-2-ruby-tests) - Plugin for running Ruby tests.
 * [Side Bar Enhancments](https://github.com/titoBouzout/SideBarEnhancements) - Enhancements to Sublime Text sidebar. Files and folders.
 * [Sublime Git](https://github.com/kemayo/sublime-text-git) - Git Integration for Sublime.
@@ -128,7 +128,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 * [awesome-github](https://github.com/fffaraz/awesome-github) - Faraz Fallahi maintains a curated list of GitHub & Git resources.
 * [gh](https://github.com/jingweno/gh) - Fast GitHub command line client (hub port to Go)
 * [git-extra-commands](https://github.com/unixorn/git-extra-commands) - collected git helper scripts
-* [git-extras](https://github.com/visionmedia/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
+* [git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 * [git-it-on](https://github.com/peterhurford/git-it-on.zsh) - ZSH plugin, adds a gitit command that opens the current directory on github in your current branch
 * [git-semver](https://github.com/markchalloner/git-semver) - A git plugin to make Semantic Versioning 2.0.0 and Change Log management easier.
 * [git-sweep](https://github.com/arc90/git-sweep) - safely removes branches that have been merged into the master
@@ -140,7 +140,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 ## Presentation
 *Tools for presenting your work*
 
-* [bespoke.js](https://github.com/markdalgleish/bespoke.js) - DIY Presentation Micro-Framework
+* [bespoke.js](https://github.com/bespokejs/bespoke) - DIY Presentation Micro-Framework
 * [impress.js](https://github.com/impress/impress.js) - presentation framework based on the power of CSS3 transforms and transitions
 * [remark](https://github.com/gnab/remark) - markdown based presentation on your browser
 * [reveal.js](https://github.com/hakimel/reveal.js/) - markdown based presentation on your browser
@@ -172,7 +172,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 ## Terminal
 *Tools and addons for terminal and terminal work*
 
-* [autojump](https://github.com/joelthelion/autojump) - remembers your
+* [autojump](https://github.com/wting/autojump) - remembers your
   folders and jump to them based on partial recall (e.g. `j proj` will jump
 to `/home/Users/yourself/projects`.
 * [fasd](https://github.com/clvv/fasd) Command-line productivity booster, offers quick access to files and directories.
@@ -189,7 +189,7 @@ to `/home/Users/yourself/projects`.
 ## Workflow
 *Tools and addons which improve your daily workflow with code*
 
-* [fswatch](https://github.com/alandipert/fswatch) - a watch tool which
+* [fswatch](https://github.com/emcrisostomo/fswatch) - a watch tool which
   will emit FS events and you can run commands on demand with. Note -
 `fswatch-run` too.
 * [guard](https://github.com/guard/guard) - FS watch tool with a huge ecosystem of plugins
