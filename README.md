@@ -197,3 +197,4 @@ to `/home/Users/yourself/projects`.
   * [guard-livereload](https://github.com/guard/guard-livereload) - Guard plugin compatible with LiveReload's browser extensions
 * [watchman](https://github.com/facebook/watchman) - Facebook's better
   `watch` - note it works as a service.
+* [Zappr](https://github.com/zalando/zappr) - GitHub integration built to enhance your project workflow via enable/disable pull request approval checks.
