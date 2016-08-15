@@ -35,6 +35,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
   - [Vim](#vim)
   - [IntelliJ](#intellij)
 - [Git](#git)
+- [Orchestration](#orchestration)
 - [Presentation](#presentation)
 - [Shell](#shell)
 - [Text](#text)
@@ -149,6 +150,10 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 * [hub](https://hub.github.com/) - git CLI wrapper which makes working with GitHub easier
 * [scm_breeze](https://github.com/ndbroadbent/scm_breeze) Streamline your git workflow
 
+## Orchestration
+*Tools for orchestrating awesome development environments*
+
+* [azk](https://github.com/azukiapp/azk) - a lightweight open source engine to orchestrate development environments
 
 ## Presentation
 *Tools for presenting your work*
