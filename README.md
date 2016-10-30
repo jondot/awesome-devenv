@@ -31,7 +31,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 - [Dotfiles](#dotfiles)
 - [Editors](#editors)
   - [Atom](#atom)
-  - [Sublime Text](#sublime)
+  - [Sublime Text](#sublime-text-3)
   - [Vim](#vim)
   - [IntelliJ](#intellij)
 - [Git](#git)
