@@ -165,7 +165,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 * [reveal.js](https://github.com/hakimel/reveal.js/) - markdown based presentation on your browser
 * [deck.js](https://github.com/imakewebthings/deck.js) - markdown based presentation on your browser
 * [vimdeck](https://github.com/tybenz/vimdeck) - present inside your Vim
-
+* [WebSlides](https://github.com/jlantunez/webslides) - Making HTML presentations easy
 
 ## Shell
 *Tools for having an awesome shell environment*
