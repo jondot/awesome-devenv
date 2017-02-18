@@ -35,6 +35,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
   - [Vim](#vim)
   - [IntelliJ](#intellij)
 - [Git](#git)
+- [Notifications](#notifications)
 - [Orchestration](#orchestration)
 - [Presentation](#presentation)
 - [Shell](#shell)
