@@ -202,7 +202,7 @@ to `/home/Users/yourself/projects`.
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - the
   incredible ZSH addon.
 * [Pipe Viewer](http://www.ivarch.com/programs/pv.shtml) - a tool for monitoring the progress of data through a pipeline
-* [tmux](http://tmux.sourceforge.net/) the awesome terminal multiplexer.
+* [tmux](https://tmux.github.io/) the awesome terminal multiplexer.
 
 
 ## Workflow
