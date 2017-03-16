@@ -35,6 +35,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
   - [Vim](#vim)
   - [IntelliJ](#intellij)
 - [Git](#git)
+- [Notifications](#notifications)
 - [Orchestration](#orchestration)
 - [Presentation](#presentation)
 - [Shell](#shell)
@@ -150,6 +151,11 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 * [hub](https://hub.github.com/) - git CLI wrapper which makes working with GitHub easier
 * [scm_breeze](https://github.com/ndbroadbent/scm_breeze) Streamline your git workflow
 * [tig](http://jonas.nitro.dk/tig/) - an ncurses-based text-mode interface for git
+
+## Notifications
+*Tools that notify developers about changes in their work environment*
+
+* [CatLight](https://catlight.io) - status notifier for developers. Checks the status of continuous delivery builds and shows desktop notifications.
 
 ## Orchestration
 *Tools for orchestrating awesome development environments*
