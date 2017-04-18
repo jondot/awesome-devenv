@@ -123,7 +123,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 * [Emmet](https://github.com/sergeche/emmet-sublime)
 * [Git Gutter](https://github.com/jisaacks/GitGutter) - display changed/added lines in the margin of the editor window.
 * [jsFormat](https://github.com/jdc0589/JsFormat) - Javascript formatting.
-* [LiveReload](https://github.com/dz0ny/LiveReload-sublimetext2) - LiveReload plugin.
+* [LiveReload](https://github.com/Grafikart/ST3-LiveReload) - LiveReload plugin for Sublime Text 3.
 * [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing) - Markdown syntax understanding and good color schemes.
 * [Package Control](https://sublime.wbond.net/installation) - The Sublime Text package manager.
 * [RubyTest](https://github.com/maltize/sublime-text-2-ruby-tests) - Plugin for running Ruby tests.
