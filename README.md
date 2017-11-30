@@ -35,6 +35,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
   - [Vim](#vim)
   - [IntelliJ](#intellij)
 - [Git](#git)
+- [Misc](#misc)
 - [Notifications](#notifications)
 - [Orchestration](#orchestration)
 - [Presentation](#presentation)
@@ -154,6 +155,11 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 * [hub](https://hub.github.com/) - git CLI wrapper which makes working with GitHub easier
 * [scm_breeze](https://github.com/ndbroadbent/scm_breeze) Streamline your git workflow
 * [tig](http://jonas.nitro.dk/tig/) - an ncurses-based text-mode interface for git
+
+## Misc
+*Useful tools that cannot find a home in other categories*
+
+* [Mockoon](https://mockoon.com) - an API / HTTP REST mocking desktop application
 
 ## Notifications
 *Tools that notify developers about changes in their work environment*
