@@ -75,6 +75,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 
 * [glances](https://github.com/nicolargo/glances)
 * [nmon](http://nmon.sourceforge.net/pmwiki.php)
+* [gtop](https://github.com/aksakalli/gtop)
 
 
 ## Desktop
