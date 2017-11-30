@@ -147,6 +147,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 * [git-extra-commands](https://github.com/unixorn/git-extra-commands) - collected git helper scripts
 * [git-extras](https://github.com/visionmedia/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 * [git-it-on](https://github.com/peterhurford/git-it-on.zsh) - ZSH plugin, adds a gitit command that opens the current directory on github in your current branch
+* [git-secret](https://github.com/sobolevn/git-secret) - A bash-tool to store your private data inside a git repository.
 * [git-semver](https://github.com/markchalloner/git-semver) - A git plugin to make Semantic Versioning 2.0.0 and Change Log management easier.
 * [git-sweep](https://github.com/arc90/git-sweep) - safely removes branches that have been merged into the master
 * [git-up](https://github.com/aanand/git-up) - a better 'git pull'
