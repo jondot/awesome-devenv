@@ -203,6 +203,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
   better-than-grep tool.
 * [ag](https://github.com/ggreer/the_silver_searcher) - A C based code-searching tool similar to ack, but faster
 * [peco](https://github.com/peco/peco) - interactive filtering, like interactive Grep
+* [ripgrep](https://github.com/BurntSushi/ripgrep) - Faster than grep, written in Rust
 
 
 ## Terminal
