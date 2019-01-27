@@ -159,6 +159,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 ## Misc
 *Useful tools that cannot find a home in other categories*
 
+* [Fenix Web Server](https://fenixwebserver.com) - A multi-host local static web server with push-button sharing (desktop app).
 * [Mockoon](https://mockoon.com) - an API / HTTP REST mocking desktop application
 
 ## Notifications
