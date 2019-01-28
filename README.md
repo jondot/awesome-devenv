@@ -179,6 +179,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 * [bespoke.js](https://github.com/markdalgleish/bespoke.js) - DIY Presentation Micro-Framework
 * [hacker-slides](https://github.com/msoedov/hacker-slides) - Reveal.js based presentation tool
 * [impress.js](https://github.com/impress/impress.js) - presentation framework based on the power of CSS3 transforms and transitions
+* [mithril-slides](https://github.com/wulab/mithril-slides) - A Keynote-inspired presentation app written with Mithril
 * [remark](https://github.com/gnab/remark) - markdown based presentation on your browser
 * [reveal.js](https://github.com/hakimel/reveal.js/) - markdown based presentation on your browser
 * [deck.js](https://github.com/imakewebthings/deck.js) - markdown based presentation on your browser
