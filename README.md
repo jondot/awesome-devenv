@@ -34,6 +34,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
   - [Sublime Text](#sublime-text-3)
   - [Vim](#vim)
   - [IntelliJ](#intellij)
+  - [VSCode](#visual-studio-code)
 - [Git](#git)
 - [Misc](#misc)
 - [Notifications](#notifications)
@@ -140,6 +141,15 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 
 * [keymap](https://github.com/jondot/keymaps/) - a hybrid Vim/ReSharper/Intellij keymap
 
+### Visual Studio Code
+
+* [Dev Git Repo](https://github.com/Microsoft/vscode) - Github code repository for VS Code 
+* [Monaco Editor Git Repo](https://github.com/microsoft/monaco-editor) - Github code repository for underlying browser-based editor
+
+#### Extensions
+* [VS Code Extension Marketplace](https://marketplace.visualstudio.com/search?target=VSCode&category=All%20categories) - Official website for extensions
+* [Python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Official Python extension
+* [Sync settings](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) - Excellent extension for settings and extension sync of your VS code setup
 
 ## Git
 *Tools and addons for making an awesome Git experience*
