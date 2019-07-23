@@ -34,7 +34,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
   - [Sublime Text](#sublime-text-3)
   - [Vim](#vim)
   - [IntelliJ](#intellij)
-  - [VSCode](#vscode)
+  - [VSCode](#visual-studio-code)
 - [Git](#git)
 - [Misc](#misc)
 - [Notifications](#notifications)
