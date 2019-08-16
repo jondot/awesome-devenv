@@ -49,7 +49,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 ## Admins
 *Tools to manage databases, permissions, etc.*
 
-* [hss](https://github.com/snwfdhmp/hss) - Never type the annoying ssh commands again.
+* [hss](https://github.com/six-ddc/hss) - Never type the annoying ssh commands again.
 * [MongoHub](https://github.com/fotonauts/MongoHub-Mac/releases) - Native OSx client for mongo
 * [Robomongo](http://robomongo.org/) - a cross platform Admin for MongoDB
 
