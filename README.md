@@ -202,7 +202,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 
 * [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - List of zsh plugins usable with [zgen](https://github.com/tarjoilija/zgen) and other [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/) compatible zsh frameworks
 * [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell
-* [hss](https://github.com/snwfdhmp/hss) - Never type the annoying ssh commands again.
+* [hss](https://github.com/six-ddc/hss) - Never type the annoying ssh commands again.
 * [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - Framework for managing your fish shell configuration inspired by oh-my-zsh.
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/) - A community driven framework for managing zsh configuration.
 * [zgen](https://github.com/tarjoilija/zgen) - Faster framework for managing your zsh configuration, backward compatible with oh-my-zsh plugins
@@ -228,7 +228,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 to `/home/Users/yourself/projects`.
 * [fasd](https://github.com/clvv/fasd) Command-line productivity booster, offers quick access to files and directories.
 * [homebrew](http://brew.sh) - Makes it easy to install open source packages on an `OS X` system with a single command.
-* [hss](https://github.com/snwfdhmp/hss) - Never type the annoying ssh commands again.
+* [hss](https://github.com/six-ddc/hss) - Never type the annoying ssh commands again.
 * [httpie](http://httpie.org/) A command line HTTP client, a user-friendly cURL replacement.
 * [iTerm2](http://www.iterm2.com/) - a great terminal replacement `/OSX/`
 * [jq](https://stedolan.github.io/jq/) - a lightweight and flexible command-line JSON processor
