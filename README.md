@@ -173,6 +173,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 * [Fenix Web Server](https://fenixwebserver.com) - A multi-host local static web server with push-button sharing (desktop app).
 * [ML Workspace](hhttps://github.com/ml-tooling/ml-workspace) - All-in-one web-based development environment for machine learning and data science.
 * [Mockoon](https://mockoon.com) - an API / HTTP REST mocking desktop application
+* [HTTP Toolkit](https://httptoolkit.tech) - an HTTP inspection & debugging desktop application
 
 ## Notifications
 *Tools that notify developers about changes in their work environment*
