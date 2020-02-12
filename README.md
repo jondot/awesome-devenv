@@ -77,6 +77,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 *Tools for checking diagnosing your system while you work*
 
 * [glances](https://github.com/nicolargo/glances)
+* [netdata](https://github.com/netdata/netdata#readme) - Instantly diagnose slowdowns and anomalies on your system.
 * [nmon](http://nmon.sourceforge.net/pmwiki.php)
 * [gtop](https://github.com/aksakalli/gtop)
 
