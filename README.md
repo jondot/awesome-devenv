@@ -218,6 +218,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 * [ack](https://github.com/petdance/ack2) - the Perl based
   better-than-grep tool.
 * [ag](https://github.com/ggreer/the_silver_searcher) - A C based code-searching tool similar to ack, but faster
+* [codemod](https://github.com/facebook/codemod) - For large-scale codebase refactors that can be partially automated.
 * [peco](https://github.com/peco/peco) - interactive filtering, like interactive Grep
 * [ripgrep](https://github.com/BurntSushi/ripgrep) - Faster than grep, written in Rust
 
