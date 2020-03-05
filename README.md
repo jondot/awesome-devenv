@@ -158,6 +158,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 * [gh](https://github.com/jingweno/gh) - Fast GitHub command line client (hub port to Go)
 * [git-extra-commands](https://github.com/unixorn/git-extra-commands) - collected git helper scripts
 * [git-extras](https://github.com/visionmedia/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
+* [gitignore-cli](https://github.com/dvinciguerra/gitignore-cli) - A cli that help you to generate .gitignore files
 * [git-it-on](https://github.com/peterhurford/git-it-on.zsh) - ZSH plugin, adds a gitit command that opens the current directory on github in your current branch
 * [git-secret](https://github.com/sobolevn/git-secret) - A bash-tool to store your private data inside a git repository.
 * [git-semver](https://github.com/markchalloner/git-semver) - A git plugin to make Semantic Versioning 2.0.0 and Change Log management easier.
