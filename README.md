@@ -128,11 +128,11 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 * [Emmet](https://github.com/sergeche/emmet-sublime)
 * [Git Gutter](https://github.com/jisaacks/GitGutter) - display changed/added lines in the margin of the editor window.
 * [jsFormat](https://github.com/jdc0589/JsFormat) - Javascript formatting.
-* [LiveReload](https://github.com/dz0ny/LiveReload-sublimetext2) - LiveReload plugin.
+* [LiveReload](https://github.com/alepez/LiveReload-sublimetext3) - LiveReload plugin.
 * [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing) - Markdown syntax understanding and good color schemes.
 * [Package Control](https://sublime.wbond.net/installation) - The Sublime Text package manager.
 * [RubyTest](https://github.com/maltize/sublime-text-2-ruby-tests) - Plugin for running Ruby tests.
-* [Side Bar Enhancments](https://github.com/titoBouzout/SideBarEnhancements) - Enhancements to Sublime Text sidebar. Files and folders.
+* [Side Bar Enhancements](https://github.com/titoBouzout/SideBarEnhancements) - Enhancements to Sublime Text sidebar. Files and folders.
 * [Sublime Git](https://github.com/kemayo/sublime-text-git) - Git Integration for Sublime.
 * [Sublime Linter](https://github.com/SublimeLinter/SublimeLinter3/) - Interactive code linting.
 * [TrailingSpaces](https://github.com/SublimeText/TrailingSpaces) - Highlight trailing spaces and delete them in a flash.
