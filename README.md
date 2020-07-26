@@ -256,3 +256,4 @@ to `/home/Users/yourself/projects`.
 * [Zappr](https://github.com/zalando/zappr) - GitHub integration built to enhance your project workflow via enable/disable pull request approval checks.
 * [ergo](https://github.com/cristianoliveira/ergo) - The management of multiple local services running over different ports made easy.
 * [Prodmodel](https://github.com/prodmodel/prodmodel) - Build tool for data science pipelines.
+* [Gebug](https://github.com/moshebe/gebug) - A tool that makes debugging of Dockerized Go applications super easy by enabling Debugger and Hot-Reload features, seamlessly.
