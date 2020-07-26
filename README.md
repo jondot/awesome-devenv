@@ -238,6 +238,7 @@ to `/home/Users/yourself/projects`.
   incredible ZSH addon.
 * [Pipe Viewer](http://www.ivarch.com/programs/pv.shtml) - a tool for monitoring the progress of data through a pipeline
 * [tmux](https://tmux.github.io/) the awesome terminal multiplexer.
+* [zoxide](https://github.com/ajeetdsouza/zoxide) - A better way to navigate your filesystem. Written in Rust, cross-shell, and much faster than other autojumpers.
 
 
 ## Workflow
