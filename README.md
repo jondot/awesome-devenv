@@ -151,6 +151,10 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 * [Python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Official Python extension
 * [Sync settings](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) - Excellent extension for settings and extension sync of your VS code setup
 
+#### Usecases
+
+* [whilp/world](https://github.com/whilp/world) - A fully reproducible and automatically maintained VSCode development environment (devcontainer)
+
 ## Git
 *Tools and addons for making an awesome Git experience*
 
