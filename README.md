@@ -191,6 +191,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 
 * [azk](https://github.com/azukiapp/azk) - a lightweight open source engine to orchestrate development environments
 * [Nanobox](https://github.com/nanobox-io/nanobox) - A micro-PaaS (μPaaS) for creating consistent, isolated, development environments deployable anywhere https://nanobox.io.
+* [T.A.D.S. boilerplate](https://github.com/Thomvaill/tads-boilerplate) - A boilerplate + helper CLI to create Docker Swarm development environments and production deployments with Ansible, Vagrant and Terraform.
 
 ## Presentation
 *Tools for presenting your work*
