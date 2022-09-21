@@ -190,6 +190,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 *Tools for orchestrating awesome development environments*
 
 * [azk](https://github.com/azukiapp/azk) - a lightweight open source engine to orchestrate development environments
+* [kool](https://github.com/kool-dev/kool) - easy, fast and reproduceable modern development environments, with out-of-the-box presets for popular stacks (https://kool.dev)
 * [Nanobox](https://github.com/nanobox-io/nanobox) - A micro-PaaS (μPaaS) for creating consistent, isolated, development environments deployable anywhere https://nanobox.io.
 
 ## Presentation
