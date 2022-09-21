@@ -149,7 +149,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 
 ### Visual Studio Code
 
-* [Dev Git Repo](https://github.com/Microsoft/vscode) - Github code repository for VS Code 
+* [Dev Git Repo](https://github.com/Microsoft/vscode) - Github code repository for VS Code
 * [Monaco Editor Git Repo](https://github.com/microsoft/monaco-editor) - Github code repository for underlying browser-based editor
 
 #### Extensions
@@ -251,6 +251,7 @@ to `/home/Users/yourself/projects`.
 ## Workflow
 *Tools and addons which improve your daily workflow with code*
 
+* [1Password SSH Agent](https://developer.1password.com/docs/ssh/) - Authenticate Git and SSH workflows with biometric unlock using 1Password
 * [fswatch](https://github.com/alandipert/fswatch) - a watch tool which
   will emit FS events and you can run commands on demand with. Note -
 `fswatch-run` too.
