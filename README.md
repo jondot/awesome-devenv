@@ -72,6 +72,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 *Tools for handling online and offline data*
 
 * [s3cmd](https://github.com/s3tools/s3cmd) - the S3 CLI tool for Amazon
+* [SmallDev.tools](https://smalldev.tools/test-data-generator-online) - Generate Fake/Dummy dataset for testing in JSON, CSV or other formats
 
 
 ## Diagnostics
