@@ -241,6 +241,7 @@ to `/home/Users/yourself/projects`.
 * [httpie](http://httpie.org/) A command line HTTP client, a user-friendly cURL replacement.
 * [iTerm2](http://www.iterm2.com/) - a great terminal replacement `/OSX/`
 * [jq](https://stedolan.github.io/jq/) - a lightweight and flexible command-line JSON processor
+* [mpm](https://github.com/kdeldycke/meta-package-manager) - meta package manager, a wrapper around all package managers.
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - the
   incredible ZSH addon.
 * [Pipe Viewer](http://www.ivarch.com/programs/pv.shtml) - a tool for monitoring the progress of data through a pipeline
