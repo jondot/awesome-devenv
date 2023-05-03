@@ -259,6 +259,7 @@ to `/home/Users/yourself/projects`.
 * [LiveReload](http://livereload.com/) - FS watch and preprocessor as a desktop app for `/OSX/` and `/WIN/` with complementary browser extensions
   * [guard-livereload](https://github.com/guard/guard-livereload) - Guard plugin compatible with LiveReload's browser extensions
   * [simplehttp](https://github.com/snwfdhmp/simplehttp) Fastest and simplest way to start serving a local directory over http.
+* [Overlay](https://github.com/os-scar/overlay) - A browser extension helping developers evaluate open source packages before picking them.
 * [watchman](https://github.com/facebook/watchman) - Facebook's better
   `watch` - note it works as a service.
 * [Zappr](https://github.com/zalando/zappr) - GitHub integration built to enhance your project workflow via enable/disable pull request approval checks.
