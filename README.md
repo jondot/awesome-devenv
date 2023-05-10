@@ -239,6 +239,7 @@ to `/home/Users/yourself/projects`.
 * [homebrew](http://brew.sh) - Makes it easy to install open source packages on an `OS X` system with a single command.
 * [hss](https://github.com/six-ddc/hss) - Never type the annoying ssh commands again.
 * [httpie](http://httpie.org/) A command line HTTP client, a user-friendly cURL replacement.
+* [intelli-shell](https://github.com/lasantosr/intelli-shell) - Bookmark commands with placeholders and search or autocomplete at any time.
 * [iTerm2](http://www.iterm2.com/) - a great terminal replacement `/OSX/`
 * [jq](https://stedolan.github.io/jq/) - a lightweight and flexible command-line JSON processor
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - the
