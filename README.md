@@ -1,4 +1,4 @@
-# Awesome Dev Env [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Dev Env [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome tools, resources and workflow tips making an awesome development environment.
 
@@ -17,7 +17,7 @@ But in short:
 Many thanks to everyone on the [contributor list](https://github.com/jondot/awesome-devenv/graphs/contributors) :)
 
 
-# Content
+## Contents
 
 _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/LIN`_
 
@@ -32,6 +32,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 - [Dotfiles](#dotfiles)
 - [Editors](#editors)
   - [Atom](#atom)
+  - [Vim](#vim)
   - [Sublime Text](#sublime-text-3)
   - [Vim](#vim)
   - [IntelliJ](#intellij)
@@ -65,7 +66,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 * [siege](http://www.joedog.org/siege-home/)
 * [Vegeta](https://github.com/tsenart/vegeta)
 * [wrk](https://github.com/wg/wrk)
-* [redis-faina](https://github.com/Instagram/redis-faina) Instagram's Redis counter/timing stats based on the MONITOR command
+* [redis-faina](https://github.com/Instagram/redis-faina) - Instagram's Redis counter/timing stats based on the MONITOR command
 
 
 ## Data
@@ -149,8 +150,8 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 
 ### Visual Studio Code
 
-* [Dev Git Repo](https://github.com/Microsoft/vscode) - Github code repository for VS Code 
-* [Monaco Editor Git Repo](https://github.com/microsoft/monaco-editor) - Github code repository for underlying browser-based editor
+* [Dev Git Repo](https://github.com/Microsoft/vscode) - GitHub code repository for VS Code 
+* [Monaco Editor Git Repo](https://github.com/microsoft/monaco-editor) - GitHub code repository for underlying browser-based editor
 
 #### Extensions
 * [VS Code Extension Marketplace](https://marketplace.visualstudio.com/search?target=VSCode&category=All%20categories) - Official website for extensions
@@ -163,14 +164,14 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 * [awesome-github](https://github.com/fffaraz/awesome-github) - Faraz Fallahi maintains a curated list of GitHub & Git resources.
 * [gh](https://github.com/jingweno/gh) - Fast GitHub command line client (hub port to Go)
 * [git-extra-commands](https://github.com/unixorn/git-extra-commands) - collected git helper scripts
-* [git-extras](https://github.com/visionmedia/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
+* [git-extras](https://github.com/tj/git-extras) - GIT utilities - repo summary, repl, changelog population, author commit percentages and more
 * [git-it-on](https://github.com/peterhurford/git-it-on.zsh) - ZSH plugin, adds a gitit command that opens the current directory on github in your current branch
 * [git-secret](https://github.com/sobolevn/git-secret) - A bash-tool to store your private data inside a git repository.
 * [git-semver](https://github.com/markchalloner/git-semver) - A git plugin to make Semantic Versioning 2.0.0 and Change Log management easier.
 * [git-sweep](https://github.com/arc90/git-sweep) - safely removes branches that have been merged into the master
 * [git-up](https://github.com/aanand/git-up) - a better 'git pull'
 * [hub](https://hub.github.com/) - git CLI wrapper which makes working with GitHub easier
-* [scm_breeze](https://github.com/ndbroadbent/scm_breeze) Streamline your git workflow
+* [scm_breeze](https://github.com/ndbroadbent/scm_breeze) - Streamline your git workflow
 * [tig](http://jonas.nitro.dk/tig/) - an ncurses-based text-mode interface for git
 
 ## Misc
@@ -234,17 +235,17 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 * [autojump](https://github.com/joelthelion/autojump) - remembers your
   folders and jump to them based on partial recall (e.g. `j proj` will jump
 to `/home/Users/yourself/projects`.
-* [fasd](https://github.com/clvv/fasd) Command-line productivity booster, offers quick access to files and directories.
+* [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories.
 * [freshenv](https://github.com/raiyanyahya/freshenv) - Provision, share, manage local and cloud developer environments.
 * [homebrew](http://brew.sh) - Makes it easy to install open source packages on an `OS X` system with a single command.
 * [hss](https://github.com/six-ddc/hss) - Never type the annoying ssh commands again.
-* [httpie](http://httpie.org/) A command line HTTP client, a user-friendly cURL replacement.
+* [httpie](http://httpie.org/) - A command line HTTP client, a user-friendly cURL replacement.
 * [iTerm2](http://www.iterm2.com/) - a great terminal replacement `/OSX/`
 * [jq](https://stedolan.github.io/jq/) - a lightweight and flexible command-line JSON processor
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - the
   incredible ZSH addon.
 * [Pipe Viewer](http://www.ivarch.com/programs/pv.shtml) - a tool for monitoring the progress of data through a pipeline
-* [tmux](https://tmux.github.io/) the awesome terminal multiplexer.
+* [tmux](https://tmux.github.io/) - the awesome terminal multiplexer.
 * [zoxide](https://github.com/ajeetdsouza/zoxide) - A better way to navigate your filesystem. Written in Rust, cross-shell, and much faster than other autojumpers.
 
 
@@ -258,7 +259,7 @@ to `/home/Users/yourself/projects`.
 * [just](https://github/casey/just) - A task runner for conveniently saving and running project-specific commands. Similar to make, but much nicer
 * [LiveReload](http://livereload.com/) - FS watch and preprocessor as a desktop app for `/OSX/` and `/WIN/` with complementary browser extensions
   * [guard-livereload](https://github.com/guard/guard-livereload) - Guard plugin compatible with LiveReload's browser extensions
-  * [simplehttp](https://github.com/snwfdhmp/simplehttp) Fastest and simplest way to start serving a local directory over http.
+  * [simplehttp](https://github.com/snwfdhmp/simplehttp) - Fastest and simplest way to start serving a local directory over http.
 * [watchman](https://github.com/facebook/watchman) - Facebook's better
   `watch` - note it works as a service.
 * [Zappr](https://github.com/zalando/zappr) - GitHub integration built to enhance your project workflow via enable/disable pull request approval checks.
