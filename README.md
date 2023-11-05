@@ -31,7 +31,6 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 - [Documentation](#documentation)
 - [Dotfiles](#dotfiles)
 - [Editors](#editors)
-  - [Atom](#atom)
   - [Sublime Text](#sublime-text-3)
   - [Vim](#vim)
   - [IntelliJ](#intellij)
@@ -108,18 +107,6 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 
 ## Editors
 *Only awesome tools and addons for your favorite editor*
-
-### Atom
-
-* [atom-beautify](https://github.com/Glavin001/atom-beautify) - Beautify HTML (including Handlebars), CSS (including Sass and Less), JavaScript, and much more in Atom.
-* [file-icons](https://github.com/DanBrooker/file-icons) - Adds file specific icons to atom for improved visual grepping.
-* [highlight-selected](https://github.com/richrace/highlight-selected) - Double click on a word to highlight it throughout the open file.
-* [minimap](https://github.com/atom-minimap/minimap) - A graphical map (preview) of the full source code.
-* [minimap-git-diff](https://github.com/atom-minimap/minimap-git-diff) - A minimap binding for the Atom git-diff package.
-* [minimap-highlight-selected](https://github.com/atom-minimap/minimap-highlight-selected) - A minimap binding for the highlight-selected package.
-* [atom-project-manager](https://github.com/danielbrodin/atom-project-manager) - Get easy access to all your projects and manage them with project specific settings and options.
-* [atom-tree-view-git-status](https://github.com/subesokun/atom-tree-view-git-status) - Show the Git repository status in the Atom tree-view.
-* [atom-pigments](https://github.com/abe33/atom-pigments) - An Atom package to display colors in project and files.
 
 ### Vim
 
