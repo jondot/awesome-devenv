@@ -256,7 +256,7 @@ to `/home/Users/yourself/projects`.
 `fswatch-run` too.
 * [guard](https://github.com/guard/guard) - FS watch tool with a huge ecosystem of plugins
 * [just](https://github/casey/just) - A task runner for conveniently saving and running project-specific commands. Similar to make, but much nicer
-* [LiveReload](http://livereload.com/) - FS watch and preprocessor as a desktop app for `/OSX/` and `/WIN/` with complementary browser extensions
+* [LiveReload](https://livereload.net/) - FS watch and preprocessor as a desktop app for `/OSX/` and `/WIN/` with complementary browser extensions
   * [guard-livereload](https://github.com/guard/guard-livereload) - Guard plugin compatible with LiveReload's browser extensions
   * [simplehttp](https://github.com/snwfdhmp/simplehttp) Fastest and simplest way to start serving a local directory over http.
 * [watchman](https://github.com/facebook/watchman) - Facebook's better
