@@ -176,10 +176,11 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 ## Misc
 *Useful tools that cannot find a home in other categories*
 
+* [ByteTools](https://bytetools.io/) - Collection of privacy-first web-based developer utilities including regex tester, JWT decoder, passphrase generator, QR generator, and URL encoder. 100% client-side processing.
 * [Fenix Web Server](https://fenixwebserver.com) - A multi-host local static web server with push-button sharing (desktop app).
+* [HTTP Toolkit](https://httptoolkit.tech) - an HTTP inspection & debugging desktop application
 * [ML Workspace](hhttps://github.com/ml-tooling/ml-workspace) - All-in-one web-based development environment for machine learning and data science.
 * [Mockoon](https://mockoon.com) - an API / HTTP REST mocking desktop application
-* [HTTP Toolkit](https://httptoolkit.tech) - an HTTP inspection & debugging desktop application
 
 ## Notifications
 *Tools that notify developers about changes in their work environment*
