@@ -191,6 +191,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 
 * [azk](https://github.com/azukiapp/azk) - a lightweight open source engine to orchestrate development environments
 * [Nanobox](https://github.com/nanobox-io/nanobox) - A micro-PaaS (μPaaS) for creating consistent, isolated, development environments deployable anywhere https://nanobox.io.
+* [Velda](https://velda.io) - Velda provision development environments that can scale: run any commands with ondemand compute, or setup workflows, without container builds.
 
 ## Presentation
 *Tools for presenting your work*
