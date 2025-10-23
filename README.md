@@ -153,6 +153,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 * [Monaco Editor Git Repo](https://github.com/microsoft/monaco-editor) - Github code repository for underlying browser-based editor
 
 #### Extensions
+* [vscode-live-server](https://github.com/ritwickdey/vscode-live-server) - VS Code extension that launches a local development server with live reload.
 * [VS Code Extension Marketplace](https://marketplace.visualstudio.com/search?target=VSCode&category=All%20categories) - Official website for extensions
 * [Python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Official Python extension
 * [Sync settings](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) - Excellent extension for settings and extension sync of your VS code setup
