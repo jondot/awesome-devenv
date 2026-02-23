@@ -62,6 +62,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 * [boom](https://github.com/rakyll/boom)
 * [httperf](http://www.hpl.hp.com/research/linux/httperf/)
 * [phantomas](https://github.com/macbre/phantomas) - website perf evaluation tool
+* [PageGuard](https://pageguard.qiudeqiu.workers.dev) - Free website health scanner with comprehensive audits for SEO, performance, accessibility, and best practices powered by AI.
 * [siege](http://www.joedog.org/siege-home/)
 * [Vegeta](https://github.com/tsenart/vegeta)
 * [wrk](https://github.com/wg/wrk)
