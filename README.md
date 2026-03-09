@@ -190,6 +190,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 *Tools for orchestrating awesome development environments*
 
 * [azk](https://github.com/azukiapp/azk) - a lightweight open source engine to orchestrate development environments
+* [Dorothy](https://github.com/Charlie85270/Dorothy) - Open-source desktop app to orchestrate multiple AI CLI agents (Claude Code, Codex, Gemini) simultaneously with automations, Kanban management, and remote control.
 * [Nanobox](https://github.com/nanobox-io/nanobox) - A micro-PaaS (μPaaS) for creating consistent, isolated, development environments deployable anywhere https://nanobox.io.
 
 ## Presentation
