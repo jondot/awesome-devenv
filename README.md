@@ -176,6 +176,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 ## Misc
 *Useful tools that cannot find a home in other categories*
 
+* [DevKits](https://aiforeverthing.com) - 24 free online developer tools for daily workflow including code formatters, data converters, and developer utilities. No installation required.
 * [Fenix Web Server](https://fenixwebserver.com) - A multi-host local static web server with push-button sharing (desktop app).
 * [ML Workspace](hhttps://github.com/ml-tooling/ml-workspace) - All-in-one web-based development environment for machine learning and data science.
 * [Mockoon](https://mockoon.com) - an API / HTTP REST mocking desktop application
