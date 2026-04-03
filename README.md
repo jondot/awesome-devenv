@@ -94,6 +94,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 ## Documentation
 *Tools to document your project*
 
+* [Code Tour](https://github.com/vaddisrinivas/code-tour) - AI-powered CodeTour walkthrough generator that creates step-by-step `.tour` files linking to real files and line numbers for VS Code.
 * [Log4brains](https://github.com/thomvaill/log4brains) - Docs-as-code knowledge base to manage Architecture Decision Records (ADR) for your project and publish them automatically as a static website.
 
 
