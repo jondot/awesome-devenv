@@ -89,6 +89,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 * [hydra](https://github.com/sdegutis/hydra) - script your desktop
   `/OSX/`
 * [Keycastr](https://github.com/sdeken/keycastr) - show your keys while
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
   presenting/casting `/OSX/`
 
 ## Documentation
