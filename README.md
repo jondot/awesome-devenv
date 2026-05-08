@@ -191,6 +191,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 
 * [azk](https://github.com/azukiapp/azk) - a lightweight open source engine to orchestrate development environments
 * [Nanobox](https://github.com/nanobox-io/nanobox) - A micro-PaaS (μPaaS) for creating consistent, isolated, development environments deployable anywhere https://nanobox.io.
+* [Nimbalyst](https://github.com/nimbalyst/nimbalyst) - A visual workspace for building with Claude Code and Codex. Orchestrate parallel sessions. Visually edit markdown, diagrams.
 
 ## Presentation
 *Tools for presenting your work*
