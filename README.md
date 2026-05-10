@@ -246,6 +246,8 @@ to `/home/Users/yourself/projects`.
 * [Pipe Viewer](http://www.ivarch.com/programs/pv.shtml) - a tool for monitoring the progress of data through a pipeline
 * [tmux](https://tmux.github.io/) the awesome terminal multiplexer.
 * [zoxide](https://github.com/ajeetdsouza/zoxide) - A better way to navigate your filesystem. Written in Rust, cross-shell, and much faster than other autojumpers.
+* [claudestat](https://github.com/DeibyGS/claudestat) - Real-time token monitoring and cost analytics for Claude Code. Live
+  dashboard, quota guard, loop detection, and CLI trace view.
 
 
 ## Workflow
