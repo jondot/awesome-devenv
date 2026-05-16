@@ -225,6 +225,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
   better-than-grep tool.
 * [ag](https://github.com/ggreer/the_silver_searcher) - A C based code-searching tool similar to ack, but faster
 * [peco](https://github.com/peco/peco) - interactive filtering, like interactive Grep
+* [Reflex](https://github.com/reflex-search/reflex) - Local-first full-text code search engine. Trigram-indexed, sub-100ms queries across large codebases. JSON output and MCP server for AI coding workflows.
 * [ripgrep](https://github.com/BurntSushi/ripgrep) - Faster than grep, written in Rust
 
 
