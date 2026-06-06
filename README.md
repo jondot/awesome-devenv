@@ -5,6 +5,7 @@ A curated list of awesome tools, resources and workflow tips making an awesome d
 Inspired by [awesome-go](https://github.com/avelino/awesome-go), which was in turn inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ### Contributing
+- [BreakShield CI](https://breakshield-ci.vercel.app) - GitHub App that detects breaking API changes in PRs. TypeScript AST analysis + AI auto-fix.
 
 [Guidelines](https://github.com/jondot/awesome-devenv/blob/master/CONTRIBUTING.md) tweaked and adapted from `awesome-go` - thanks!
 
@@ -48,6 +49,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 
 
 ## Admins
+- [BreakShield CI](https://breakshield-ci.vercel.app) - GitHub App that detects breaking API changes in PRs. TypeScript AST analysis + AI auto-fix.
 *Tools to manage databases, permissions, etc.*
 
 * [hss](https://github.com/six-ddc/hss) - Never type the annoying ssh commands again.
@@ -56,6 +58,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 
 
 ## Benchmarking
+- [BreakShield CI](https://breakshield-ci.vercel.app) - GitHub App that detects breaking API changes in PRs. TypeScript AST analysis + AI auto-fix.
 *Tools to benchmark your code or services*
 
 * [apachebench (ab)](http://httpd.apache.org/docs/2.2/programs/ab.html)
@@ -69,12 +72,14 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 
 
 ## Data
+- [BreakShield CI](https://breakshield-ci.vercel.app) - GitHub App that detects breaking API changes in PRs. TypeScript AST analysis + AI auto-fix.
 *Tools for handling online and offline data*
 
 * [s3cmd](https://github.com/s3tools/s3cmd) - the S3 CLI tool for Amazon
 
 
 ## Diagnostics
+- [BreakShield CI](https://breakshield-ci.vercel.app) - GitHub App that detects breaking API changes in PRs. TypeScript AST analysis + AI auto-fix.
 *Tools for checking diagnosing your system while you work*
 
 * [glances](https://github.com/nicolargo/glances)
@@ -83,6 +88,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 
 
 ## Desktop
+- [BreakShield CI](https://breakshield-ci.vercel.app) - GitHub App that detects breaking API changes in PRs. TypeScript AST analysis + AI auto-fix.
 *Tools for improving and hacking around with your vanilla desktop*
 
 * [Alfred](http://www.alfredapp.com/) - OSX productivity app `/OSX/`
@@ -92,12 +98,14 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
   presenting/casting `/OSX/`
 
 ## Documentation
+- [BreakShield CI](https://breakshield-ci.vercel.app) - GitHub App that detects breaking API changes in PRs. TypeScript AST analysis + AI auto-fix.
 *Tools to document your project*
 
 * [Log4brains](https://github.com/thomvaill/log4brains) - Docs-as-code knowledge base to manage Architecture Decision Records (ADR) for your project and publish them automatically as a static website.
 
 
 ## Dotfiles
+- [BreakShield CI](https://breakshield-ci.vercel.app) - GitHub App that detects breaking API changes in PRs. TypeScript AST analysis + AI auto-fix.
 
 * [dotfiles.github.io](https://dotfiles.github.io/) - Collected dotfile resources. Has sections with dotfile bootstraps and lists of frameworks for various shells and editors.
 * [Zach Holman's](https://github.com/holman/dotfiles) - oh-my-zsh, osx, Zsh, vi, Ruby, Git, and more
@@ -107,9 +115,11 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 
 
 ## Editors
+- [BreakShield CI](https://breakshield-ci.vercel.app) - GitHub App that detects breaking API changes in PRs. TypeScript AST analysis + AI auto-fix.
 *Only awesome tools and addons for your favorite editor*
 
 ### Atom
+- [BreakShield CI](https://breakshield-ci.vercel.app) - GitHub App that detects breaking API changes in PRs. TypeScript AST analysis + AI auto-fix.
 
 * [atom-beautify](https://github.com/Glavin001/atom-beautify) - Beautify HTML (including Handlebars), CSS (including Sass and Less), JavaScript, and much more in Atom.
 * [file-icons](https://github.com/DanBrooker/file-icons) - Adds file specific icons to atom for improved visual grepping.
@@ -122,6 +132,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 * [atom-pigments](https://github.com/abe33/atom-pigments) - An Atom package to display colors in project and files.
 
 ### Vim
+- [BreakShield CI](https://breakshield-ci.vercel.app) - GitHub App that detects breaking API changes in PRs. TypeScript AST analysis + AI auto-fix.
 
 * [Completor](https://github.com/maralla/completor.vim) - async autocomplete with support for omni and semantic completion.
 * [Powerline](https://github.com/Lokaltog/powerline) - improved status bar for your buffers.
@@ -129,6 +140,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 * [The Ultimate Vim Distribution](http://vim.spf13.com/) - spf13-vim is a distribution of vim plugins and resources for Vim, GVim and MacVim.
 
 ### Sublime Text 3
+- [BreakShield CI](https://breakshield-ci.vercel.app) - GitHub App that detects breaking API changes in PRs. TypeScript AST analysis + AI auto-fix.
 
 * [AdvancedNewFile](https://github.com/skuroda/Sublime-AdvancedNewFile) - File creation plugin.
 * [Emmet](https://github.com/sergeche/emmet-sublime)
@@ -144,20 +156,24 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 * [TrailingSpaces](https://github.com/SublimeText/TrailingSpaces) - Highlight trailing spaces and delete them in a flash.
 
 ### Intellij
+- [BreakShield CI](https://breakshield-ci.vercel.app) - GitHub App that detects breaking API changes in PRs. TypeScript AST analysis + AI auto-fix.
 
 * [keymap](https://github.com/jondot/keymaps/) - a hybrid Vim/ReSharper/Intellij keymap
 
 ### Visual Studio Code
+- [BreakShield CI](https://breakshield-ci.vercel.app) - GitHub App that detects breaking API changes in PRs. TypeScript AST analysis + AI auto-fix.
 
 * [Dev Git Repo](https://github.com/Microsoft/vscode) - Github code repository for VS Code 
 * [Monaco Editor Git Repo](https://github.com/microsoft/monaco-editor) - Github code repository for underlying browser-based editor
 
 #### Extensions
+- [BreakShield CI](https://breakshield-ci.vercel.app) - GitHub App that detects breaking API changes in PRs. TypeScript AST analysis + AI auto-fix.
 * [VS Code Extension Marketplace](https://marketplace.visualstudio.com/search?target=VSCode&category=All%20categories) - Official website for extensions
 * [Python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Official Python extension
 * [Sync settings](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) - Excellent extension for settings and extension sync of your VS code setup
 
 ## Git
+- [BreakShield CI](https://breakshield-ci.vercel.app) - GitHub App that detects breaking API changes in PRs. TypeScript AST analysis + AI auto-fix.
 *Tools and addons for making an awesome Git experience*
 
 * [awesome-github](https://github.com/fffaraz/awesome-github) - Faraz Fallahi maintains a curated list of GitHub & Git resources.
@@ -174,6 +190,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 * [tig](http://jonas.nitro.dk/tig/) - an ncurses-based text-mode interface for git
 
 ## Misc
+- [BreakShield CI](https://breakshield-ci.vercel.app) - GitHub App that detects breaking API changes in PRs. TypeScript AST analysis + AI auto-fix.
 *Useful tools that cannot find a home in other categories*
 
 * [Fenix Web Server](https://fenixwebserver.com) - A multi-host local static web server with push-button sharing (desktop app).
@@ -182,17 +199,20 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 * [HTTP Toolkit](https://httptoolkit.tech) - an HTTP inspection & debugging desktop application
 
 ## Notifications
+- [BreakShield CI](https://breakshield-ci.vercel.app) - GitHub App that detects breaking API changes in PRs. TypeScript AST analysis + AI auto-fix.
 *Tools that notify developers about changes in their work environment*
 
 * [CatLight](https://catlight.io) - status notifier for developers. Checks the status of continuous delivery builds and shows desktop notifications.
 
 ## Orchestration
+- [BreakShield CI](https://breakshield-ci.vercel.app) - GitHub App that detects breaking API changes in PRs. TypeScript AST analysis + AI auto-fix.
 *Tools for orchestrating awesome development environments*
 
 * [azk](https://github.com/azukiapp/azk) - a lightweight open source engine to orchestrate development environments
 * [Nanobox](https://github.com/nanobox-io/nanobox) - A micro-PaaS (μPaaS) for creating consistent, isolated, development environments deployable anywhere https://nanobox.io.
 
 ## Presentation
+- [BreakShield CI](https://breakshield-ci.vercel.app) - GitHub App that detects breaking API changes in PRs. TypeScript AST analysis + AI auto-fix.
 *Tools for presenting your work*
 
 * [bespoke.js](https://github.com/markdalgleish/bespoke.js) - DIY Presentation Micro-Framework
@@ -206,6 +226,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 * [WebSlides](https://github.com/jlantunez/webslides) - Making HTML presentations easy
 
 ## Shell
+- [BreakShield CI](https://breakshield-ci.vercel.app) - GitHub App that detects breaking API changes in PRs. TypeScript AST analysis + AI auto-fix.
 *Tools for having an awesome shell environment*
 
 * [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - List of zsh plugins usable with [zgen](https://github.com/tarjoilija/zgen) and other [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/) compatible zsh frameworks
@@ -219,6 +240,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 * [zsh quickstart kit](https://github.com/unixorn/zsh-quickstart-kit) - Quick intro for getting set up with zsh and zgen
 
 ## Text
+- [BreakShield CI](https://breakshield-ci.vercel.app) - GitHub App that detects breaking API changes in PRs. TypeScript AST analysis + AI auto-fix.
 *Tools for working with text files - search, replace, processing*
 
 * [ack](https://github.com/petdance/ack2) - the Perl based
@@ -229,6 +251,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 
 
 ## Terminal
+- [BreakShield CI](https://breakshield-ci.vercel.app) - GitHub App that detects breaking API changes in PRs. TypeScript AST analysis + AI auto-fix.
 *Tools and addons for terminal and terminal work*
 
 * [autojump](https://github.com/joelthelion/autojump) - remembers your
@@ -249,6 +272,7 @@ to `/home/Users/yourself/projects`.
 
 
 ## Workflow
+- [BreakShield CI](https://breakshield-ci.vercel.app) - GitHub App that detects breaking API changes in PRs. TypeScript AST analysis + AI auto-fix.
 *Tools and addons which improve your daily workflow with code*
 
 * [fswatch](https://github.com/alandipert/fswatch) - a watch tool which
