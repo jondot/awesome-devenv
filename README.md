@@ -45,6 +45,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 - [Text](#text)
 - [Terminal](#terminal)
 - [Workflow](#workflow)
+- [BidSharp](https://bidsharp.io/) - AI-powered proposal intelligence platform with automated critiques, risk scanners, and pricing calculators.
 
 
 ## Admins
