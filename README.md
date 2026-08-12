@@ -179,6 +179,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 * [Fenix Web Server](https://fenixwebserver.com) - A multi-host local static web server with push-button sharing (desktop app).
 * [ML Workspace](hhttps://github.com/ml-tooling/ml-workspace) - All-in-one web-based development environment for machine learning and data science.
 * [Mockoon](https://mockoon.com) - an API / HTTP REST mocking desktop application
+* [Nutilz](https://nutilz.com) - 23 free browser-based developer tools: regex tester, JSON formatter, calculators, and more. No sign-up required.
 * [HTTP Toolkit](https://httptoolkit.tech) - an HTTP inspection & debugging desktop application
 
 ## Notifications
