@@ -185,6 +185,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 *Tools that notify developers about changes in their work environment*
 
 * [CatLight](https://catlight.io) - status notifier for developers. Checks the status of continuous delivery builds and shows desktop notifications.
+* [Codex Quota Overlay](https://github.com/cpys/codex-quota-overlay) - Privacy-friendly quota and reset-time overlay for Codex Desktop `/WIN/OSX/`.
 
 ## Orchestration
 *Tools for orchestrating awesome development environments*
