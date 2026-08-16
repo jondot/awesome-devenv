@@ -86,6 +86,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 *Tools for improving and hacking around with your vanilla desktop*
 
 * [Alfred](http://www.alfredapp.com/) - OSX productivity app `/OSX/`
+* [DSH Studio](https://github.com/Moresyl/dsh-studio) - local-first cross-platform workspace for managing developer projects, commands, and environments `/OSX/WIN/LIN/`
 * [hydra](https://github.com/sdegutis/hydra) - script your desktop
   `/OSX/`
 * [Keycastr](https://github.com/sdeken/keycastr) - show your keys while
