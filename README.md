@@ -101,7 +101,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 
 * [dotfiles.github.io](https://dotfiles.github.io/) - Collected dotfile resources. Has sections with dotfile bootstraps and lists of frameworks for various shells and editors.
 * [Zach Holman's](https://github.com/holman/dotfiles) - oh-my-zsh, osx, Zsh, vi, Ruby, Git, and more
-* [Marco Pontili's dotfiles-core](https://github.com/marcop135/dotfiles-core) - Cross-platform dotfiles (macOS, Windows, WSL): four shells, one manifest, symlink installers, no chezmoi/Nix dependency `/OSX/WIN/LIN`
+* [marcop135/dotfiles-core](https://github.com/marcop135/dotfiles-core) - Cross-platform dotfiles (macOS, Windows, WSL): four shells, one manifest, symlink installers, no chezmoi/Nix dependency `/OSX/WIN/LIN`
 * [Mathias Bynens's](https://github.com/mathiasbynens/dotfiles) - .files, including ~/.osx — sensible hacker defaults for OS X
 * [Thoughtbot's](https://github.com/thoughtbot/dotfiles) - A set of vim, zsh, git, and tmux configuration files
 * [Paul Miller's](https://github.com/paulmillr/dotfiles) - Colourful & robust OS X configuration files and utilities
