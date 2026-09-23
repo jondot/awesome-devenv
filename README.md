@@ -94,6 +94,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 ## Documentation
 *Tools to document your project*
 
+* [Cortex](https://github.com/cortex-docs/cortex) - Generate interactive API documentation and typed SDKs from API specifications and Markdown.
 * [Log4brains](https://github.com/thomvaill/log4brains) - Docs-as-code knowledge base to manage Architecture Decision Records (ADR) for your project and publish them automatically as a static website.
 
 
