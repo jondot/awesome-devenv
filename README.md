@@ -81,6 +81,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 * [nmon](http://nmon.sourceforge.net/pmwiki.php)
 * [gtop](https://github.com/aksakalli/gtop)
 
+* [prt](https://github.com/rekurt/prt) - Inspect local network ports and their owning processes from a terminal interface, with JSON/CSV export. `/OSX/LIN/`
 
 ## Desktop
 *Tools for improving and hacking around with your vanilla desktop*
