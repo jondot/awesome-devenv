@@ -162,6 +162,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 
 * [awesome-github](https://github.com/fffaraz/awesome-github) - Faraz Fallahi maintains a curated list of GitHub & Git resources.
 * [gh](https://github.com/jingweno/gh) - Fast GitHub command line client (hub port to Go)
+* [git-barber](https://github.com/rekurt/git-barber) - Review and remove merged Git branches, including squash and rebase merges, from a terminal interface.
 * [git-extra-commands](https://github.com/unixorn/git-extra-commands) - collected git helper scripts
 * [git-extras](https://github.com/visionmedia/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 * [git-it-on](https://github.com/peterhurford/git-it-on.zsh) - ZSH plugin, adds a gitit command that opens the current directory on github in your current branch
