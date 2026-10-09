@@ -50,6 +50,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 ## Admins
 *Tools to manage databases, permissions, etc.*
 
+* [dbdiff](https://github.com/rekurt/dbdiff) - Compare database schemas, detect drift, and generate migration SQL for review from PostgreSQL, MySQL, SQLite, SQL files, or snapshots.
 * [hss](https://github.com/six-ddc/hss) - Never type the annoying ssh commands again.
 * [MongoHub](https://github.com/fotonauts/MongoHub-Mac/releases) - Native OSx client for mongo
 * [Robomongo](http://robomongo.org/) - a cross platform Admin for MongoDB
