@@ -169,6 +169,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 * [git-semver](https://github.com/markchalloner/git-semver) - A git plugin to make Semantic Versioning 2.0.0 and Change Log management easier.
 * [git-sweep](https://github.com/arc90/git-sweep) - safely removes branches that have been merged into the master
 * [git-up](https://github.com/aanand/git-up) - a better 'git pull'
+* [Glim](https://github.com/NeoPanic/Glim) - A macOS file viewer with Git diff previews, staging/unstaging controls and local commits alongside source and document previews.
 * [hub](https://hub.github.com/) - git CLI wrapper which makes working with GitHub easier
 * [scm_breeze](https://github.com/ndbroadbent/scm_breeze) Streamline your git workflow
 * [tig](http://jonas.nitro.dk/tig/) - an ncurses-based text-mode interface for git
