@@ -78,8 +78,9 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 *Tools for checking diagnosing your system while you work*
 
 * [glances](https://github.com/nicolargo/glances)
-* [nmon](http://nmon.sourceforge.net/pmwiki.php)
 * [gtop](https://github.com/aksakalli/gtop)
+* [Kilobat CLI](https://github.com/seifip/kilobat-cli) - Network monitoring and layered host/API diagnostics with JSON output. `/OSX/` (macOS 14+).
+* [nmon](http://nmon.sourceforge.net/pmwiki.php)
 
 
 ## Desktop
